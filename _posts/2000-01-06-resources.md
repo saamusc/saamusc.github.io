@@ -1,5 +1,5 @@
 ---
-title: "practice"
+title: "resources"
 bg: purple
 color: white
 fa-icon: cloud-upload
