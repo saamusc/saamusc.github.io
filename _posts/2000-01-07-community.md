@@ -1,5 +1,5 @@
 ---
-title: "video"
+title: "community"
 bg: turquoise
 color: white
 fa-icon: film
