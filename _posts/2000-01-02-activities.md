@@ -9,7 +9,7 @@ fa-icon: check-square-o
 
 # Our Activities
 
-We organize activities and events related to archives on Mizzou's campus and in Missouri. Our officers coordinate event planning in collaboration with [SISLT](http://sislt.missouri.edu/student-groups/) student organizations *[LISGSA](https://orgsync.com/47098/chapter)*, the *[ASIS&T Student Chapter](https://orgsync.com/46996/chapter)*, and the *[Learning Technologies GSA](https://orgsync.com/79281/chapter)*, among [others](https://orgsync.com/47259/chapter). **Below** are some descriptive summaries!
+We organize activities and events related to archives on Mizzou's campus and in Missouri. Our officers coordinate event planning in collaboration with [SISLT](http://sislt.missouri.edu/student-groups/) student organizations *[LISGSA](https://orgsync.com/47098/chapter)*, the *[ASIS&T Student Chapter](https://orgsync.com/46996/chapter)*, and the *[Learning Technologies GSA](https://orgsync.com/79281/chapter)*, among [others](https://orgsync.com/47259/chapter) at MU. **Below** are some descriptive summaries!
 
 Spring 2017:
 
