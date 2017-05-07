@@ -5,26 +5,23 @@ color: white
 fa-icon: check-square-o
 ---
 
-#### Basically
+#### Description of
 
-# this theme rocks.
+# Our Activities
 
-Got some *killer app*, some *neat project*, a cool portfolio? Make an easy single-page site to show it all off. SinglePaged uses jekyll niceties to make a ***polished, modular, and beautiful* single page site**.
+We organize activities and events related to archives on Mizzou's campus and in Missouri. Our officers coordinate event planning in collaboration with [SISLT](http://sislt.missouri.edu/student-groups/) student organizations *[LISGSA](https://orgsync.com/47098/chapter)*, the *[ASIS&T Student Chapter](https://orgsync.com/46996/chapter)*, and the *[Learning Technologies GSA](https://orgsync.com/79281/chapter)*, among [others](https://orgsync.com/47259/chapter). **Below** are some descriptive summaries!
 
-Oh-- go see [some examples](https://github.com/t413/SinglePaged#fancy-jekyll-powered-single-page-site)!
+Spring 2017:
 
-- Each vertical section is a markdown file in **_posts/** directory.
-  * They're sorted by 'date'. (we don't use date anywhere, it only sorts)
-- Each vertical section sets it's own **color**, **header icon** (or image), **title**, and easy-to-write markdown body.
-- Only **two things** to edit:
-  1. Edit `_config.yml` to set the site title, description, etc
-  2. Add `_posts/*.md` to make each vertical section. Copy some examples and add the sections from your README.md for a fast start!
-- Easy adding of **SEO terms**, **favicon** & such, and **google analytics token**.
+- April 8, 2017:
+  * At the [LISGSA Spring Conference](http://mulisgsa.blogspot.com/2017/02/coming-soon-5th-annual-lisgsa-conference.html), "Engaging Your Community," SAAMUSC members participated by briefly discussing some of the ways in which archiving connects with communities. Dr. Buchanan discussed a recent service learning course partnered with the [Black Archives of Mid-America](http://mulisgsa.blogspot.com/2017/02/looking-for-archives-experience-take.html), and three SAAMUSC members presented a poster about the course participants' contributions including collections processed. [event flyer]
 
-Sound good? Let's go!
+- March 16, 2017:
+  * Today the SAAMUSC had its first event as an official organization. We toured the MU Research Reactor (MURR). Tamara Inge, also an SAAMUSC member, coordinated the tour and is an archivist at the MURR. She and our tour guide Mark Beary led us around the facility, provided a technical overview of the reactor, the history of the facility, and defined some nuclear lingo. 
+  * MURR is currently the most powerful university research nuclear reactor in the nation, producing 10mW of electricity, though power production is not its main aim. In addition to enabling UM research from various disciplines, the MURR also produces a variety of products for nuclear pharmacuetical applications. 
+  * Documentation is omnipresent along with records retention requirements. Tamara described how she and the two other archivists enable institutional memory, by quickly finding the documentation for past studies. So, in addition to peering into the core of an active nuclear reactor and the control room, we saw some archaeometry lab work in progress, viewed the archives of the MURR, and learned about why so many documents are created in such an institution. This was a great example of the importance of the work of archivists in a scientific research or corporate institution. [event flyer]
+  
+Fall 2016:
 
-There are three way to get started: (links jump to that section)
-
-1. Make a [**user homepage**](#setup-as-user-homepage) (or organization)
-2. Make a [**standalone project**](#setup-as-standalone-project-page) page
-3. Make a [site under an **existing project**](#setup-inside-existing-project)
+- December 3, 2016:
+  * We had a great first meeting at the [LISGSA Fall Networking Event]()! We shared lunch, talked about career paths in archives, and shared tips for professional success. After a group discussion, we broke out for a focused chat about the Society of American Archivists - what it is, what it does, and what it provides for new professionals. We also discussed local and regional groups: making connections and laying the practical groundwork for forming a student chapter of SAA. [event flyer]
