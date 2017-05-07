@@ -24,4 +24,4 @@ Spring 2017:
 Fall 2016:
 
 - December 3, 2016:
-  * We had a great first meeting at the [LISGSA Fall Networking Event]! We shared lunch, talked about career paths in archives, and shared tips for professional success. After a group discussion, we broke out for a focused chat about the Society of American Archivists - what it is, what it does, and what it provides for new professionals. We also discussed local and regional groups: making connections and laying the practical groundwork for forming a student chapter of SAA. [[event flyer](/img/LISGSA-Fall2016.jpg)]
+  * We had a great first meeting at the LISGSA Fall Networking Event! We shared lunch, talked about career paths in archives, and shared tips for professional success. After a group discussion, we broke out for a focused chat about the Society of American Archivists - what it is, what it does, and what it provides for new professionals. We also discussed local and regional groups: making connections and laying the practical groundwork for forming a student chapter of SAA. [[event flyer](/img/LISGSA-Fall2016.jpg)]
