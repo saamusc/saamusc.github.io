@@ -5,16 +5,20 @@ color: white
 fa-icon: cloud-upload
 ---
 
-## Updating
+## Professional Development
 
-So you've got a copy running and there's some new update? Let's update!
+SISLT offers [Conference Travel Support](http://sislt.missouri.edu/resources/conference-travel-support/) for master's and doctoral students to present at both local and national conferences.
 
-1. Checkout your github-pages branch
-  - `git checkout gh-pages` for a standalone or existing page
-  - `git checkout master` for a *username.github.io* page
-2. run `git remote | grep -q "singlepage" || git remote add -t publish singlepage https://github.com/t413/SinglePaged.git` to be sure you have access to this repository (you can run this command at any time).
-2. `git fetch singlepage` to fetch-in-place new changes.
-3. Update to the new base (using merge)
-    1. `git merge singlepage/publish`
-4. You can alternatively update using rebase. This *rewrites history* (**bad**), but it is cleaner.
-    1. `git rebase singlepage/publish`
+SISLT graduate courses in the Archives and Records Management specialization adhere to the SAA Guidelines for a Graduate Program in Archival Studies ([GPAS)(http://www2.archivists.org/category/tags/gpas)].
+
+The School of Information Science & Learning Technologies is a member of the [iSchools](http://ischools.org/) organization.
+
+The [SAA Career Center](http://careers.archivists.org/) hosts job postings and career learning resources, and also see [ArchivesGig](https://archivesgig.wordpress.com/). Missouri is home to the [NARA Kansas City branch](https://www.archives.gov/kansas-city), the [[NPRC](https://www.archives.gov/st-louis) in St. Louis, and the [Harry S. Truman Presidential Library](https://www.trumanlibrary.org/).
+
+SAA's 45 [Sections](http://www2.archivists.org/groups/sections) invite you to contribute to professional initiatives. In particular the Students and New Archives Professionals [[SNAP](http://www2.archivists.org/groups/students-and-new-archives-professionals-snap-section)] Section hosts several resources including Student Chapter meetups at the Annual Meetings.
+
+We aim to collaborate closely with the Missouri Association for Museums & Archives [[MAMA](http://missourimuseums.org/)], which hosts an Annual Meeting in October.
+
+SAA's Regional Archival Associations Consortium ([RAAC]()) facilitates information exchange between archives organizations across America. Students may also find the Midwest Archives Conference ([MAC](http://www.midwestarchives.org/)), Kansas City Area Archivists [[KCAA](http://www.kcarchivists.org/kcaa/)], and Association of St. Louis Area Archivists [[ASLAA](http://www.stlarchivists.org/index.html)] helpful.
+
+See more topical resources compiled by peers at the Rutgers [student organization](http://wp.comminfo.rutgers.edu/source/resources/educate-yourself/).
