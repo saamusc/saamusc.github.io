@@ -9,11 +9,7 @@ fa-icon: cloud-upload
 
 SISLT offers [Conference Travel Support](http://sislt.missouri.edu/resources/conference-travel-support/) for master's and doctoral students to present at both local and national conferences.
 
-SISLT graduate courses in the Archives and Records Management specialization adhere to the SAA Guidelines for a Graduate Program in Archival Studies [[GPAS](http://www2.archivists.org/category/tags/gpas)].
-
 The School of Information Science & Learning Technologies is a member of the [iSchools](http://ischools.org/) organization.
-
-Archival institutions on Mizzou's campus include the [University Archives](http://muarchives.missouri.edu/), the [State Historical Society of Missouri](http://shsmo.org/about/columbia/) in Columbia, and the UM System [Records Management Office](https://www.umsystem.edu/ums/fa/management/records/about), among others!
 
 The [SAA Career Center](http://careers.archivists.org/) hosts job postings and career learning resources, and also see [ArchivesGig](https://archivesgig.wordpress.com/). Missouri is home to the [NARA Kansas City](https://www.archives.gov/kansas-city) branch, the [NPRC](https://www.archives.gov/st-louis) in St. Louis, and the [Harry S. Truman Presidential Library](https://www.trumanlibrary.org/).
 
