@@ -2,7 +2,6 @@ Society of American Archivists at University of Missouri student chapter
 ======================
 
 Welcome to SAAMUSC on GitHub. Below is our Site Navigation and tips on updating. For more tips see [SinglePaged theme](http://t413.com/SinglePaged) and [datarescue-austin](https://github.com/datarescue-austin/datarescue-austin.github.io)
-Sarah's random tips for updating in the future: in the posts-pages Don't touch the title/bg/color etc. Have the live page open so you can visualize what the text will look like. Keyboard character to make the code text is not the apostrophe but the acute (usu same button as the tilde~. Two hashtag/numbers to Bold. One dash to make a list. Hit an Extra return to exit out of the list back to paragraph text. Insert Hyperlink by: bracketing the words to be hyperlinked then without a space put the link in parentheses. Upload event flyers and/or JPEG's by first uploading it with a simple short filename to our img folder then linking to that concisely with /img/filename.jpg.
 
 - **Welcome**
   - [Constitution](pdf)
@@ -13,7 +12,7 @@ Sarah's random tips for updating in the future: in the posts-pages Don't touch t
   - [Listserv](https://po.missouri.edu/cgi-bin/wa?A0=SAAMUSC-L)
 - Resources
 
-
+Sarah's random tips for updating in the future: in the posts-pages Don't touch the title/bg/color etc. Have the live page open so you can visualize what the text will look like. Keyboard character to make the code text is not the apostrophe but the acute (usu same button as the tilde~. Two hashtag/numbers to Bold. One dash to make a list. Hit an Extra return to exit out of the list back to paragraph text. Insert Hyperlink by: bracketing the words to be hyperlinked then without a space put the link in parentheses. Upload event flyers and/or JPEG's by first uploading it with a simple short filename to our img folder then linking to that concisely with /img/filename.jpg.
 
 Now hop over to [Usage](#usage) to get it running with your own stuff!
 
