@@ -17,7 +17,7 @@ Fall 2018:
   * SAAMUSC members attended the [Missouri Association for Museums & Archives](http://missourimuseums.org/events/) (MAMA) conference in Jefferson City.
 
 - October 16, 2018:
-  * SAAMUSC hosted the talk "A Theatre Perspective On Archives: The Lanford Wilson Collection" by Derek R. Munson in Ellis Library. [flyer](/img/SAAMUSC_2018munson.jpg)]
+  * SAAMUSC hosted the talk "A Theatre Perspective On Archives: The Lanford Wilson Collection" by Derek R. Munson in Ellis Library. [[flyer](/img/SAAMUSC_2018munson.jpg)]
 
 - August 2, 2018:
   * MLIS student and PBPF Fellow Eric Saxon led an [Audio Preservation Workshop](/img/Audio Preservation Workshop 2018-07 Email.jpg) for the SAAMUSC community. Eric, Fellow Rebecca Benson, and Dr. Buchanan later co-presented a poster at the [2018 SAA Research Forum](https://www2.archivists.org/am2018/research-forum-2018/agenda) and spoke at the [AMIS / VMS / VMCAS](https://sched.co/ESnJ) joint meeting about the Fellowship while attending the SAA / CoSA / NAGARA Joint Annual Meeting in Washington, D.C.  Dr. Buchanan also co-presented with colleagues at [Digital Preservation 2018](https://sched.co/FVBu). Finally, our cohort (and SEC!) members presented a [poster](http://www.amiaconference.net/poster-presentations/) at AMIA on November 30 in Portland, OR.
@@ -45,7 +45,7 @@ Fall 2017:
   * Several SAAMUSC members attended the Missouri Association for Museums & Archives (MAMA) conference in Kirksville. Check out the [local news feature](https://ktvo.com/news/local/missouri-archivists-learn-from-kirksvilles-best)!
 
 - October 11, 2017:
-  * SAAMUSC hosted a tour of SHSMO led by Laura Jolley [[flyer](/img/SAAMUSC_2017_SHSMO.jpg)]. We also participated in the SISLT student groups Social at Shakespeare's Pizza Downtown on September 14.[[flyer](/img/SISLT_Social2017.png)]
+  * SAAMUSC hosted a tour of SHSMO led by Laura Jolley [[flyer](/img/SAAMUSC_2017_SHSMO.jpg)]. We also participated in the SISLT student groups Social at Shakespeare's Pizza Downtown on September 14. [[flyer](/img/SISLT_Social2017.png)]
 
 - July 26, 2017:
   * The [Archival Educators Section](https://sched.co/ADFH) panel meeting at SAA 2017 featured SAAMUSC President and Dr. Buchanan discussing the launch of SAA's newest student chapter.
