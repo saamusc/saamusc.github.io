@@ -31,7 +31,7 @@ Spring 2018:
   * We hosted a presentation by University Archivist Anselm Huelsbergen about the Academy of Certified Archivists. [[flyer](/img/SAAMUSC_2018CA.png)]
 
 - February 17, 2018:
-  * SAAMUSC hosted a tour of Kansas City Public Library's [Missouri Valley Special Collections and Archives](http://www.kchistory.org/content/about-missouri-valley-special-collections), after an officer info session about archival careers on January 23. [[flyer]((/img/SAAMUSC_info2018.png))]
+  * SAAMUSC hosted a tour of Kansas City Public Library's [Missouri Valley Special Collections and Archives](http://www.kchistory.org/content/about-missouri-valley-special-collections), after an officer info session about archival careers on January 23. [[flyer](/img/SAAMUSC_info2018.png)]
   
 - January 2018:
   * The MU College of Education celebrated its 150th Anniversary with a [timeline](https://education.missouri.edu/150-2/), among other items. It features several individuals from SISLT's and the LIS Program's institutional memory whom graduate students in Archival Practice continue to research in depth.
@@ -45,10 +45,10 @@ Fall 2017:
   * Several SAAMUSC members attended the Missouri Association for Museums & Archives (MAMA) conference in Kirksville. Check out the [local news feature](https://ktvo.com/news/local/missouri-archivists-learn-from-kirksvilles-best)!
 
 - October 11, 2017:
-  * SAAMUSC hosted a tour of SHSMO led by Laura Jolley [[flyer](/img/SAAMUSC_2017_SHSMO.jpg)]. We also participated in the SISLT student groups Social at Shakespeare's Pizza Downtown on September 14. [[flyer](/img/SISLT_Social2017.png)]
+  * SAAMUSC hosted a tour of SHSMO led by Laura Jolley. [[flyer](/img/SAAMUSC_2017_SHSMO.jpg)]. We also participated in the SISLT student groups Social at Shakespeare's Pizza Downtown on September 14. [[flyer](/img/SISLT_Social2017.png)]
 
 - July 26, 2017:
-  * The [Archival Educators Section](https://sched.co/ADFH) panel meeting at SAA 2017 featured SAAMUSC President and Dr. Buchanan discussing the launch of SAA's newest student chapter.
+  * The [Archival Educators Section](https://sched.co/ADFH) panel meeting at SAA 2017 featured SAAMUSC President Jennifer Walker and Dr. Buchanan discussing the experience of SAA's *newest* student chapter.
   
 Spring 2017:
 
