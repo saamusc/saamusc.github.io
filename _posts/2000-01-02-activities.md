@@ -45,7 +45,7 @@ Fall 2017:
   * Several SAAMUSC members attended the Missouri Association for Museums & Archives (MAMA) conference in Kirksville. Check out the [local news feature](https://ktvo.com/news/local/missouri-archivists-learn-from-kirksvilles-best)!
 
 - October 11, 2017:
-  * SAAMUSC hosted a tour of SHSMO led by Laura Jolley. [[flyer](/img/SAAMUSC_2017_SHSMO.jpg)]. We also participated in the SISLT student groups Social at Shakespeare's Pizza Downtown on September 14. [[flyer](/img/SISLT_Social2017.png)]
+  * SAAMUSC hosted a tour of SHSMO led by Laura Jolley. [[flyer](/img/SAAMUSC_2017_SHSMO.jpg)]. We also participated in the SISLT student groups Social at Shakespeare's Pizza Downtown on September 14. [[flyer](/img/SISLT_Social2017.jpg)]
 
 - July 26, 2017:
   * The [Archival Educators Section](https://sched.co/ADFH) panel meeting at SAA 2017 featured SAAMUSC President Jennifer Walker and Dr. Buchanan discussing the experience of SAA's *newest* student chapter.
