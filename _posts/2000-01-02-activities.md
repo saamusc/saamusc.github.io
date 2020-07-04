@@ -11,6 +11,34 @@ fa-icon: check-square-o
 
 We organize activities and events related to archives on Mizzou's campus and in Missouri. Our officers coordinate event planning in collaboration with [SISLT](http://sislt.missouri.edu/student-groups/) student organizations *[LISGSA](https://orgsync.com/47098/chapter)*, the *[ASIS&T Student Chapter](https://orgsync.com/46996/chapter)*, and the *[Learning Technologies GSA](https://orgsync.com/79281/chapter)*, among [others](https://orgsync.com/47259/chapter) at MU. **Below** are some descriptive summaries! More details are in our Annual Reports below. 
 
+Fall 2019:
+
+- November 21, 2019:
+  * Four SAAMUSC members attended the Kansas City Area Archivists (KCAA) Fall Symposium on "Archivists as Teachers" at the Marr Sound Archives, UMKC Libraries. [[brochure](/img/KCAA_Fall Symposium Brochure19.pdf)]
+
+- November 19, 2019:
+  * MLIS graduate Courtney Gillie spoke on the *[Inside Mizzou](https://twitter.com/Mizzou/status/1196895097834487808)* podcast.
+
+Spring 2019:
+
+- May 3, 2019:
+  * SAAMUSC hosted a tour of the St. Louis Archdiocese Archives, co-led by our Secretary, Assistant Archivist Sarah Gabriel.
+
+- April 13, 2019:
+  * We volunteered at [#ShowMeMizzou Day](/img/SMM Day 2019-04.jpg).
+
+- April 12, 2019:
+  * SAAMUSC celebrated a [Chancellor's Excellence Award](/img/CEA2019.jpg) and dedicated the funds to the migration and digitization of "[SISLTcast](http://sisltcast.missouri.edu/)" / "[LIS Radio](http://lisradio.missouri.edu/)" which are accessible now from [https://mospace.umsystem.edu/xmlui/handle/10355/68701](https://mospace.umsystem.edu/xmlui/handle/10355/68701) 
+  
+- April 6, 2019:
+  * At the SISLT Conference, three members shared their work on 3D printing in libraries, digital preservation goals, and Kyrgyz immigrant community perceptions and expectations of public libraries. [[program](/img/SISLTcon19_program.pdf)]
+
+- March 6, 2019:
+  * SAAMUSC also toured the Zalk Veterinary Medical Library with Kate Anderson.
+
+- March 1, 2019:
+  * SAAMUSC hosted a tour of the J. Otto Lottes Health Sciences Library, meeting with Deb Ward, Rebecca Graves, and Taira Meadowcroft.
+
 Fall 2018:
 
 - October 19-20, 2018:
