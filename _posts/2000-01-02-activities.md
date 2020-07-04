@@ -25,7 +25,7 @@ Spring 2019:
   * SAAMUSC hosted a tour of the St. Louis Archdiocese Archives, co-led by our Secretary, Assistant Archivist Sarah Gabriel.
 
 - April 13, 2019:
-  * We volunteered at [#ShowMeMizzou Day](/img/SMM Day 2019-04.jpg).
+  * We volunteered at [#ShowMeMizzou Day](/img/SMM Day 2019-04.jpg). Also [Dr. Derek Alderman](/img/Alderman2019.jpg) spoke on campus.
 
 - April 12, 2019:
   * SAAMUSC celebrated a [Chancellor's Excellence Award](/img/CEA2019.jpg) and dedicated the funds to the migration and digitization of "[SISLTcast](http://sisltcast.missouri.edu/)" / "[LIS Radio](http://lisradio.missouri.edu/)" which are accessible now from [https://mospace.umsystem.edu/xmlui/handle/10355/68701](https://mospace.umsystem.edu/xmlui/handle/10355/68701) 
