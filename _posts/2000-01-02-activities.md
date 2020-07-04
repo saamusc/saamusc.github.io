@@ -17,7 +17,7 @@ Fall 2019:
   * Four SAAMUSC members attended the Kansas City Area Archivists (KCAA) Fall Symposium on "Archivists as Teachers" at the Marr Sound Archives, UMKC Libraries. [[brochure](/img/KCAA_Fall Symposium Brochure19.pdf)]
 
 - November 19, 2019:
-  * MLIS graduate Courtney Gillie spoke on the *[Inside Mizzou](https://twitter.com/Mizzou/status/1196895097834487808)* podcast.
+  * MLIS graduate Courtney Gillie spoke on the *[Inside Mizzou](https://twitter.com/Mizzou/status/1196895097834487808)* [podcast](/img/InsideMizzou-21st-Century.jpg).
 
 Spring 2019:
 
