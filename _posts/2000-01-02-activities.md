@@ -31,7 +31,7 @@ Fall 2020:
 Spring 2020:
   
 - July 20, 2020:
-  * We hosted a [Speakeasy](https://twitter.com/SAAMUSC/status/1283386454043918336) with Katie Dieckhaus on the Digitization Project at Na Ali’i, learning how document management services support the DPAA Recently Accounted-For archive. We learned the story of [1st Lt. Justin G. Mills](https://www.dpaa.mil/News-Stories/News-Releases/PressReleaseArticleView/Article/1973276/marine-accounted-for-from-world-war-ii-mills-j/), killed during World War II, and accounted for on Aug. 19, 2019.
+  * We hosted a [Speakeasy](https://twitter.com/SAAMUSC/status/1283386454043918336) with Katie Dieckhaus on the Digitization Project at Na Ali’i, whose document management services support the DPAA Recently Accounted-For archive. We learned the story of [1st Lt. Justin G. Mills](https://www.dpaa.mil/News-Stories/News-Releases/PressReleaseArticleView/Article/1973276/marine-accounted-for-from-world-war-ii-mills-j/), killed during World War II, and accounted for on Aug. 19, 2019.
 
 - May 20, 2020:
   * SAAMUSC hosted our first [Speakeasy](https://twitter.com/SAAMUSC/status/1258066554509504513), where participants gathered to converse, share, learn, or at least unmute for a few minutes of friendly reflection on life and today's big ideas. Also we issued our first monthly [newsletter](https://twitter.com/SAAMUSC/status/1257004410988900353)! They're in our 2020 report below.
