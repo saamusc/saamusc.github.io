@@ -17,7 +17,7 @@ Fall 2020:
   * For our sixth [Speakeasy](https://twitter.com/SAAMUSC/status/1337407359879155712) of 2020, Felicity Dykas of MU Digital Services - with an assist from our own Antanella Tirone - updated us on active digitization projects and collections.
 
 - October 23, 2020:
-  * The Missouri Association for Museums and Archives (MAMA) virtual conference hosted SAAMUSC Officers Shelby Catalano and Denise Chappell's [presentation](/img/MAMA20-Speakeasy.pdf) on our work this year.
+  * The Missouri Association for Museums and Archives (MAMA) virtual conference hosted SAAMUSC Officers Shelby Catalano and Denise Chappell's [presentation](/img/MAMA20-Speakeasy.jpg) on our work this year.
 
 - October 21, 2020:
   * SAAMUSC hosted a Speakeasy with MU Special Collections Librarians Kelli Hansen and John Henry Adams, who shared insights about new [digital exhibits](https://twitter.com/MUSpecColl/status/1318258373666754560) and [virtual instruction](https://twitter.com/MUSpecColl/status/1326217623189794816).
