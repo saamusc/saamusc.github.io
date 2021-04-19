@@ -23,7 +23,7 @@ Fall 2020:
   * SAAMUSC hosted a Speakeasy with MU Special Collections Librarians Kelli Hansen and John Henry Adams, who shared insights about new [digital exhibits](https://twitter.com/MUSpecColl/status/1318258373666754560) and [virtual instruction](https://twitter.com/MUSpecColl/status/1326217623189794816).
 
 - September 20, 2020: 
-  * Our *[Jeoparty! Speakeasy](https://twitter.com/SAAMUSC/status/1306954099385077761)* was a team-sourced and roaring good time!
+  * Our [*Jeoparty!* Speakeasy](https://twitter.com/SAAMUSC/status/1306954099385077761) was a team-sourced and roaring good time!
 
 - August 27, 2020:
   * SAAMUSC hosted our third Speakeasy with University Archivist Anselm Huelsbergen and Public Services Archivist Gary Cox. 25 students got the inside view on the University Archives of the University of Missouri during the first week of classes. 
