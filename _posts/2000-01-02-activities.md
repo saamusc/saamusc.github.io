@@ -39,6 +39,9 @@ Spring 2020:
 - April 30, 2020:
   * SAAMUSC hosted an online Happy Hour and raffle with LISGSA.
 
+- March 2020:
+  * This year marks the 200th of [Boone County](https://twitter.com/boonehistory/status/1220783609847611392) - [happy birthday](https://twitter.com/boonehistory/status/1328398227046068225)! Our nearby Boone County History & Culture Center is the new home of the [*Columbia Daily Tribune* archives](https://twitter.com/boonehistory/status/1240367684245651456), a [bicentennial exhibit](https://twitter.com/boonehistory/status/1234585473097572352) showcasing items like [Odon Guitar's uniform](https://twitter.com/boonehistory/status/1237441598281179138), and now a pandemic remembering, record-keeping [effort](https://twitter.com/boonehistory/status/1238193692764188673) - as we remember [Hank Waters](https://twitter.com/boonehistory/status/1341444234143035401), namesake of the Center's [records](https://twitter.com/boonehistory/status/1332399440028725248) lab. Here is SAAMUSC's own [Brian Flanagin MLIS'19](https://twitter.com/boonehistory/status/1286362697286799360) digitizing [images](https://twitter.com/boonehistory/status/1238193692764188673) from the [*Faces Found*](https://twitter.com/boonehistory/status/1212841205781934081) exhibit. 
+
 Fall 2019:
 
 - November 21, 2019:
