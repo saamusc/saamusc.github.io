@@ -11,6 +11,34 @@ fa-icon: check-square-o
 
 We organize activities and events related to archives on Mizzou's campus and in Missouri. Our officers coordinate event planning in collaboration with [SISLT](http://sislt.missouri.edu/student-groups/) student organizations *[LISGSA](https://orgsync.com/47098/chapter)*, the *[ASIS&T Student Chapter](https://orgsync.com/46996/chapter)*, and the *[Learning Technologies GSA](https://orgsync.com/79281/chapter)*, among [others](https://orgsync.com/47259/chapter) at MU. **Below** are some descriptive summaries! More details are in our Annual Reports below. 
 
+Fall 2020:
+
+- December 11, 2020:
+  * For our sixth [Speakeasy](https://twitter.com/SAAMUSC/status/1337407359879155712) of 2020, Felicity Dykas of MU Digital Services - with an assist from our own Antanella Tirone - updated us on active digitization projects and collections.
+
+- October 23, 2020:
+  * The Missouri Association for Museums and Archives (MAMA) virtual conference hosted SAAMUSC Officers Shelby Catalano and Denise Chappell's [[presentation](/img/MAMA20-Speakeasy.pdf)] on our work this year.
+
+- October 21, 2020:
+  * SAAMUSC hosted a Speakeasy with MU Special Collections Librarians Kelli Hansen and John Henry Adams, who shared insights about new [digital exhibits](https://twitter.com/MUSpecColl/status/1318258373666754560) and [virtual instruction](https://twitter.com/MUSpecColl/status/1326217623189794816).
+
+- September 20, 2020: 
+  * Our *[Jeoparty! Speakeasy](https://twitter.com/SAAMUSC/status/1306954099385077761)* was a team-sourced and roaring good time!
+
+- August 27, 2020:
+  * SAAMUSC hosted our third Speakeasy with University Archivist Anselm Huelsbergen and Public Services Archivist Gary Cox. 25 students got the inside view on the University Archives of the University of Missouri during the first week of classes. 
+
+Spring 2020:
+  
+- July 20, 2020:
+  * We hosted a [Speakeasy](https://twitter.com/SAAMUSC/status/1283386454043918336) with Katie Dieckhaus on the Digitization Project at Na Ali’i, learning how document management services support the DPAA Recently Accounted-For archive. We learned the story of [1st Lt. Justin G. Mills](https://www.dpaa.mil/News-Stories/News-Releases/PressReleaseArticleView/Article/1973276/marine-accounted-for-from-world-war-ii-mills-j/), killed during World War II, and accounted for on Aug. 19, 2019.
+
+- May 20, 2020:
+  * SAAMUSC hosted our first [Speakeasy](https://twitter.com/SAAMUSC/status/1258066554509504513), where participants gathered to converse, share, learn, or at least unmute for a few minutes of friendly reflection on life and today's big ideas. Also we issued our first monthly [newsletter](https://twitter.com/SAAMUSC/status/1257004410988900353)! They're in our 2020 report below.
+
+- April 30, 2020:
+  * SAAMUSC hosted an online Happy Hour and raffle with LISGSA.
+
 Fall 2019:
 
 - November 21, 2019:
