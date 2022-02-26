@@ -11,6 +11,46 @@ fa-icon: check-square-o
 
 We organize activities and events related to archives on Mizzou's campus and in Missouri. Our officers coordinate event planning in collaboration with [SISLT](http://sislt.missouri.edu/student-groups/) student organizations *[LISGSA](https://orgsync.com/47098/chapter)*, the *[ASIS&T Student Chapter](https://orgsync.com/46996/chapter)*, and the *[Learning Technologies GSA](https://orgsync.com/79281/chapter)*, among [others](https://orgsync.com/47259/chapter) at MU. **Below** are some descriptive summaries! More details are in our Annual Reports below. 
 
+Fall 2021:
+
+- December 1, 2021:
+  * Student archivists Shelby Catalano, Denise Chappell, Alejandra Hutchison, Nila McGinnis, Erin Price, Antanella Tirone, and Dr. Buchanan presented the year's ninth Speakeasy on "Data Archiving in the [Venus Pompeiana Project](https://venuspompeiana.mused.org/)."
+
+- November 17, 2021:
+  * Space and time brought us together for a Speakeasy with NASA intern and SAAMUSC's own Katherine Herrick, who made appraisal more transparent for archival collections taking up precious space.
+
+- October 28, 2021:
+  * SAAMUSC hosted a Speakeasy with Lynden Steele, Director of Pictures of the Year International (POYi), celebrating 20 years of its photojournalism contest and the 10th anniversary of POY Latam.
+
+- October 14, 2021:
+  * We welcomed Jeffrey Eaton, Archivist at T-Mobile, for a Speakeasy crossing art and business archives.
+
+- September 28, 2021:
+  * Dr. Heather Moulaison-Sandy joined us for a [Speakeasy](https://hdl.handle.net/10355/87061) on paleography (skills), the long history of hypertext, and digital manuscript studies.
+
+- September 9, 2021:
+  * SAAMUSC welcomed MacKenzie Mallon, Provenance Specialist at the Nelson-Atkins Museum of Art and also #MizzouMade, for a Speakeasy glossing her extensive efforts to research and exhibit objects in the collection.
+
+Spring 2021:
+
+- July 20, 2021:
+  * SAAMUSC's own Emily Lempka presented a research lightning talk in the SAA SNAP Section Meeting at ARCHIVES * RECORDS 2021: Together/Apart.
+
+- July 16, 2021:
+  * SAAMUSC's own Antanella Tirone, Eric Saxon, Rebecca Benson, and Dr. Buchanan presented on [PBPF](https://education.missouri.edu/information-science-learning-technologies/2020/09/18/digitization-station/) at AERI 2021.
+
+- May 27, 2021:
+  * SAAMUSC hosted a Speakeasy with Davina Harrison, catalog librarian at the Missouri Botanical Garden and current Vice Chair of MOHub for the DPLA, who discussed the latter's Library Carpentry Workshop, MODS metadata ingest, and the MOBIUS Consortium.
+
+- May 13-14, 2021:
+  * At the Midwest Archives Conference (MAC) 2021 Annual Meeting, SAAMUSC President Shelby Catalano and Dr. Buchanan presented "[The Archives Speakeasy Approach to Broadening and Building Community](/img/MAC21-Speakeasy.pdf).".
+
+- April 27, 2021:
+  * We welcomed Dr. Liz Donato, Research Specialist, and Dr. Arden Decker, Associate Director, of the International Center for the Arts of the Americas ([ICAA](https://icaa.mfah.org/))'s Documents of Latin American and Latino Art initiative for a Speakeasy.
+
+- March 18, 2021:
+  * SAAMUSC hosted a Speakeasy with Midwest Genealogy Center Manager Cheryl Lang, MLS.
+
 Fall 2020:
 
 - December 11, 2020:
