@@ -40,7 +40,7 @@ Spring 2021:
   * SAAMUSC's own Antanella Tirone, Eric Saxon, Rebecca Benson, and Dr. Buchanan presented on [PBPF](https://education.missouri.edu/information-science-learning-technologies/2020/09/18/digitization-station/) at AERI 2021.
 
 - May 27, 2021:
-  * SAAMUSC hosted a Speakeasy with Davina Harrison, catalog librarian at the Missouri Botanical Garden and current Vice Chair of MOHub for the DPLA, who discussed the latter's Library Carpentry Workshop, MODS metadata ingest, and the MOBIUS Consortium.
+  * SAAMUSC hosted a Speakeasy with Davina Harrison, catalog librarian at the Missouri Botanical Garden and current Vice Chair of MOHub for the DPLA, who discussed the latter's Library Carpentry Workshop, MODS metadata ingest, and the [MOBIUS Consortium](https://mobiusconsortium.org/MOHub).
 
 - May 13-14, 2021:
   * At the Midwest Archives Conference (MAC) 2021 Annual Meeting, SAAMUSC President Shelby Catalano and Dr. Buchanan presented "[The Archives Speakeasy Approach to Broadening and Building Community](/img/MAC21-Speakeasy.pdf).".
