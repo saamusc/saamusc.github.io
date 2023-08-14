@@ -17,7 +17,7 @@ Fall 2022:
   * For our ninth Speakeasy of 2022, #MizzouMade Digital Archivist at the Albuquerque Museum Photo Archive Jill Hartke shared highlights from her work. Check out the "[Picture This](https://www.youtube.com/watch?v=3NRJrwhvJLk&list=PLOASc0ZJD0r7YOPHuGRV8D2BMe04cGAll)" visual podcast and the [eMuseum](https://albuquerque.emuseum.com/)!
 
 - December 9, 2022:
-  * MLIS student and PBPF Fellow Kaitlin Howard co-presented a poster with cohort members at the Association of Moving Image Archivists ([AMIA](https://sched.co/1Eb9j2022)) Conference in Pittsburgh, PA.
+  * MLIS student and PBPF Fellow Kaitlin Howard co-presented a poster with cohort members at the Association of Moving Image Archivists ([AMIA](https://amiaconference.net/amia-2022-program/)) Conference in Pittsburgh, PA.
 
 - November 17, 2022:
   * We welcomed #MizzouMade Jeff Corrigan, Science Librarian and Outreach Coordinator at California State University Monterey Bay, for a Speakeasy about library and archive careers.
