@@ -46,7 +46,7 @@ Spring 2022:
   * We welcomed Jessica Salow, Assistant Archivist of Black Collections at Arizona State University (ASU), for a Speakeasy about their [award-winning](https://www2.archivists.org/2022-Archival-Innovator-Award-ASU-Community-Driven-Archives) Community-Driven Archives (CDA) Initiative.
 
 - July 21, 2022:
-  * We welcomed #MizzouMade Patrick Hoffman and Wendy Norris of the Theatre on Film and Tape Archive (TOFT) at the New York Public Library for a standout Speakeasy showcasing their 50th anniversary exhibition "[Focus Center Stage](https://www.nypl.org/press/theatre-film-and-tape-archive-celebrates-50th-anniversary-retrospective-exhibition-opening)."
+  * We welcomed #MizzouMade Patrick Hoffman and Wendy Norris of the Theatre on Film and Tape Archive (TOFT) at the New York Public Library for a standout summer Speakeasy showcasing their 50th anniversary exhibition "[Focus Center Stage](https://www.nypl.org/press/theatre-film-and-tape-archive-celebrates-50th-anniversary-retrospective-exhibition-opening)."
 
 - June 16, 2022:
   * SAAMUSC hosted a Speakeasy with MLIS student Elizabeth Bloodworth who discussed digitization projects and community partnerships at [Bradley University](https://www.bradley.edu/academic/lib/collections-centers/special-collections/).
