@@ -23,10 +23,10 @@ Fall 2022:
   * We welcomed #MizzouMade Jeff Corrigan, Science Librarian and Outreach Coordinator at California State University Monterey Bay, for a Speakeasy about library and archive careers.
 
 - October 20, 2022:
-  * SAAMUSC welcomed Tara Laver, Senior Archivist at the Nelson-Atkins Museum Archives, for a Speakeasy about her archival activities. Check out the "[Frame of Mind](https://nelson-atkins.org/nelson-atkins-at-home/listen-at-home/frame-of-mind/)]" podcast!
+  * SAAMUSC welcomed Tara Laver, Senior Archivist at the Nelson-Atkins Museum Archives, for a Speakeasy about her archival activities. Check out the "[Frame of Mind](https://nelson-atkins.org/nelson-atkins-at-home/listen-at-home/frame-of-mind/)" podcast!
 
 - October 14-15, 2022:
-  * SAAMUSC member Charissa Ercolin attended the [Missouri Association for Museums & Archives](https://missourimuseums.org/Events/Conference/Archive) (MAMA) conference in St. Charles.
+  * SAAMUSC member Charissa Ercolin attended the Missouri Association for Museums & Archives ([MAMA](https://missourimuseums.org/Events/Conference/Archive)) conference in St. Charles.
 
 - September 22, 2022:
   * Archivist Ailina Fisk and Digital Archivist Aristide LaVey of the [New York City Ballet](https://www.nycballet.com/about-us/the-archive) joined us for a Speakeasy about their stunning collection.
@@ -46,7 +46,7 @@ Spring 2022:
   * We welcomed Jessica Salow, Assistant Archivist of Black Collections at Arizona State University (ASU), for a Speakeasy about their [award-winning](https://www2.archivists.org/2022-Archival-Innovator-Award-ASU-Community-Driven-Archives) Community-Driven Archives (CDA) Initiative.
 
 - July 21, 2022:
-  * We welcomed #MizzouMade Patrick Hoffman and Wendy Norris of the Theatre on Film and Tape Archive (TOFT) at the New York Public Library for a standout Speakeasy showcasing their 50th anniversary exhibition "[Focus Center Stage](https://www.nypl.org/press/theatre-film-and-tape-archive-celebrates-50th-anniversary-retrospective-exhibition-opening)".
+  * We welcomed #MizzouMade Patrick Hoffman and Wendy Norris of the Theatre on Film and Tape Archive (TOFT) at the New York Public Library for a standout Speakeasy showcasing their 50th anniversary exhibition "[Focus Center Stage](https://www.nypl.org/press/theatre-film-and-tape-archive-celebrates-50th-anniversary-retrospective-exhibition-opening)."
 
 - June 16, 2022:
   * SAAMUSC hosted a Speakeasy with MLIS student Elizabeth Bloodworth who discussed digitization projects and community partnerships at [Bradley University](https://www.bradley.edu/academic/lib/collections-centers/special-collections/).
