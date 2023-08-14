@@ -17,7 +17,7 @@ Fall 2022:
   * For our ninth Speakeasy of 2022, #MizzouMade Digital Archivist at the Albuquerque Museum Photo Archive Jill Hartke shared highlights from her work. Check out the "[Picture This](https://www.youtube.com/watch?v=3NRJrwhvJLk&list=PLOASc0ZJD0r7YOPHuGRV8D2BMe04cGAll)" visual podcast and the [eMuseum](https://albuquerque.emuseum.com/)!
 
 - December 9, 2022:
-  * MLIS student and PBPF Fellow Kaitlin Howard co-presented a poster with cohort members at the Association of Moving Image Archivists ([AMIA](https://amiaconference.net/amia-2022-program/)) Conference in Pittsburgh, PA.
+  * MLIS student and PBPF Fellow Kaitlin Howard co-presented a poster with cohort members at the 2022 Association of Moving Image Archivists ([AMIA](https://sched.co/1Eb9j)) Conference in Pittsburgh, PA.
 
 - November 17, 2022:
   * We welcomed #MizzouMade Jeff Corrigan, Science Librarian and Outreach Coordinator at California State University Monterey Bay, for a Speakeasy about library and archive careers.
@@ -26,7 +26,7 @@ Fall 2022:
   * SAAMUSC welcomed Tara Laver, Senior Archivist at the Nelson-Atkins Museum Archives, for a Speakeasy about her archival activities. Check out the "[Frame of Mind](https://nelson-atkins.org/nelson-atkins-at-home/listen-at-home/frame-of-mind/)" podcast!
 
 - October 14-15, 2022:
-  * SAAMUSC member Charissa Ercolin attended the Missouri Association for Museums & Archives ([MAMA](https://missourimuseums.org/Events/Conference/Archive)) conference in St. Charles.
+  * SAAMUSC member Charissa Ercolin attended the Missouri Association for Museums & Archives ([MAMA](https://missourimuseums.org/Events/Conference/Archive)) 2022 conference in St. Charles.
 
 - September 22, 2022:
   * Archivist Ailina Fisk and Digital Archivist Aristide LaVey of the [New York City Ballet](https://www.nycballet.com/about-us/the-archive) joined us for a Speakeasy about their stunning collection.
