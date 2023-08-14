@@ -9,7 +9,56 @@ fa-icon: check-square-o
 
 # Our Activities
 
-We organize activities and events related to archives on Mizzou's campus and in Missouri. Our officers coordinate event planning in collaboration with [SISLT](http://sislt.missouri.edu/student-groups/) student organizations *[LISGSA](https://orgsync.com/47098/chapter)*, the *[ASIS&T Student Chapter](https://orgsync.com/46996/chapter)*, and the *[Learning Technologies GSA](https://orgsync.com/79281/chapter)*, among [others](https://orgsync.com/47259/chapter) at MU. **Below** are some descriptive summaries! More details are in our Annual Reports below. 
+We organize activities and events related to archives on Mizzou's campus and in Missouri. Our officers coordinate event planning in collaboration with [SISLT](http://sislt.missouri.edu/student-groups/) student organizations *[LISGSA](https://orgsync.com/47098/chapter)*, the *[ASIS&T Student Chapter](https://orgsync.com/46996/chapter)*, and the *[Learning Technologies GSA](https://orgsync.com/79281/chapter)*, among [others](https://orgsync.com/47259/chapter) at MU (OrgSync links were through spring 2020). **Below** are some descriptive summaries! More details are in our Annual Reports below. 
+
+Fall 2022:
+
+- December 15, 2022:
+  * For our ninth Speakeasy of 2022, #MizzouMade Digital Archivist at the Albuquerque Museum Photo Archive Jill Hartke shared highlights from her work. Check out the "[Picture This](https://www.youtube.com/watch?v=3NRJrwhvJLk&list=PLOASc0ZJD0r7YOPHuGRV8D2BMe04cGAll)" visual podcast and the [eMuseum](https://albuquerque.emuseum.com/)!
+
+- December 9, 2022:
+  * MLIS student and PBPF Fellow Kaitlin Howard co-presented a poster with cohort members at the Association of Moving Image Archivists ([AMIA](https://sched.co/1Eb9j2022)) Conference in Pittsburgh, PA.
+
+- November 17, 2022:
+  * We welcomed #MizzouMade Jeff Corrigan, Science Librarian and Outreach Coordinator at California State University Monterey Bay, for a Speakeasy about library and archive careers.
+
+- October 20, 2022:
+  * SAAMUSC welcomed Tara Laver, Senior Archivist at the Nelson-Atkins Museum Archives, for a Speakeasy about her archival activities. Check out the "[Frame of Mind](https://nelson-atkins.org/nelson-atkins-at-home/listen-at-home/frame-of-mind/)]" podcast!
+
+- October 14-15, 2022:
+  * SAAMUSC member Charissa Ercolin attended the [Missouri Association for Museums & Archives](https://missourimuseums.org/Events/Conference/Archive) (MAMA) conference in St. Charles.
+
+- September 22, 2022:
+  * Archivist Ailina Fisk and Digital Archivist Aristide LaVey of the [New York City Ballet](https://www.nycballet.com/about-us/the-archive) joined us for a Speakeasy about their stunning collection.
+
+- September 15, 2022:
+  * Student archivists Mariah Newton and Kaitlin Howard tabled with Dr. Buchanan at The Bridge Open House and Mizzou CEHD Involvement Fair, talking with new students about Digitization Station activities with KOPN Community Radio and the recent [ARCHIVES * RECORDS 2022](https://www2.archivists.org/am2022) 86th Annual Meeting of SAA!
+
+- August 25-26, 2022:
+  * SAAMUSC's own Hallel Yadin and Jane Bartley presented Graduate Student Posters at ARCHIVES * RECORDS 2022.
+
+- August 21, 2022:
+  * Happy Student Organization Day from MU ORG!
+
+Spring 2022:
+
+- August 18, 2022:
+  * We welcomed Jessica Salow, Assistant Archivist of Black Collections at Arizona State University (ASU), for a Speakeasy about their [award-winning](https://www2.archivists.org/2022-Archival-Innovator-Award-ASU-Community-Driven-Archives) Community-Driven Archives (CDA) Initiative.
+
+- July 21, 2022:
+  * We welcomed #MizzouMade Patrick Hoffman and Wendy Norris of the Theatre on Film and Tape Archive (TOFT) at the New York Public Library for a standout Speakeasy showcasing their 50th anniversary exhibition "[Focus Center Stage](https://www.nypl.org/press/theatre-film-and-tape-archive-celebrates-50th-anniversary-retrospective-exhibition-opening)".
+
+- June 16, 2022:
+  * SAAMUSC hosted a Speakeasy with MLIS student Elizabeth Bloodworth who discussed digitization projects and community partnerships at [Bradley University](https://www.bradley.edu/academic/lib/collections-centers/special-collections/).
+
+- May 26, 2022:
+  * We returned to the Harry S. Truman Presidential Library & Museum in nearby Independence, MO for a Zoom Speakeasy with Archivist Sam Rushay.
+
+- April 21, 2022:
+  * SAAMUSC hosted a Speakeasy with Lucasfilm Archivist Elinor De La Torre.
+
+- January 28, 2022:
+  * Dr. Megan Murph, Director, led Dr. Buchanan on an informal tour of campus's new Budds Center for American Music Studies. Welcome!
 
 Fall 2021:
 
