@@ -11,6 +11,49 @@ fa-icon: check-square-o
 
 We organize activities and events related to archives on Mizzou's campus and in Missouri. Our officers coordinate event planning in collaboration with [SISLT](http://sislt.missouri.edu/student-groups/) student organizations *[LISGSA](https://orgsync.com/47098/chapter)*, the *[ASIS&T Student Chapter](https://orgsync.com/46996/chapter)*, and the *[Learning Technologies GSA](https://orgsync.com/79281/chapter)*, among [others](https://orgsync.com/47259/chapter) at MU (OrgSync links were through spring 2020). **Below** are some descriptive summaries! More details are in our Annual Reports below. 
 
+Fall 2023:
+
+- November 20, 2023:
+  * SAAMUSC hosted Sheena Wilson, lead archivist at the Gregory School African American Archive, for our ninth Speakeasy of 2023. Check out Sheena's blog post at the National Archives' [Black History Guide](https://rediscovering-black-history.blogs.archives.gov/2021/09/01/preserving-a-communitys-legacy-the-history-of-the-gregory-school/).
+
+- November 13, 2023:
+  * We hosted a Speakeasy with Joshua Whittom, who is cataloging collections at the [Budds Center for American Music Studies](https://www.facebook.com/buddscenter/posts/pfbid0hhn9gR2h2vF5wTgsrgxVqeUHp8mm2naMUinGVsPdQnjTgbTuQbaJRVnNex39TQTFl).
+
+- September 18, 2023:
+  * SAAMUSC hosted Caitlin Christian-Lamb for an interactive Speakeasy about archival education and research.
+
+- September 7, 2023:
+  * SAAMUSC welcomed new students to the academic year at the [CEHD Involvement Fair](https://x.com/MizzouEducation/status/1701335662862205061).
+
+- August 21, 2023:
+  * Post-[ARCHIVES*RECORDS 2023](https://www2.archivists.org/am2023), we welcomed Emma Prince, founder and principal at Backlog Archives, for a Speakeasy about networking across the archival profession.
+
+Spring 2023:
+
+- July 24, 2023:
+  * We organized an ArchivesSpace webinar-watch for our summer Speakeasy.
+
+- June 12, 2023:
+  * Dr. Alexandria Gough, Archivist at the Choctaw Cultural Center, joined us for a Speakeasy about Native American archives, [intangible cultural heritage](https://ich-archivessymposium.wordpress.com/), and the upcoming SAA and ATALM conferences.
+
+- May 15, 2023:
+  * We hosted a Speakeasy on "Demystifying Job Seeking" "with Lindy Smith, Head of LaBudde Special Collections at UMKC.
+
+- April 27, 2023:
+  * Announcement of the [Dr. Samir Husni Magazine Collection](https://library.missouri.edu/news/special-collections/samir-husni-magazine-collection-donated-to-mu-libraries) at MU Libraries' Special Collections and Archives. Check out the division's new [tutorials](https://library.missouri.edu/news/special-collections/now-online-tutorials-on-finding-materials-in-special-collections) and [lesson plans](https://library.missouri.edu/news/special-collections/special-collections-lesson-plans-now-available-online)!
+
+- April 14, 2023:
+  * SAAMUSC welcomed Kelsi Evans, Director of the Dr. John P. De Cecco Archives and Special Collections of the GLBT Historical Society in San Francisco for a Speakeasy about collecting practices.
+
+- April 14, 2023:
+  * MLIS student and PBPF Fellow Kaitlin Howard co-presented a poster with cohort members at the 2023 Midwest Archives Conference ([MAC](https://sched.co/1GVbF)) in Chicago, IL.
+
+- March 27, 2023:
+  * SAAMUSC hosted a Speakeasy with ALA President-Elect Emily Drabinski.
+
+- January 19, 2023:
+  * SAAMUSC talked archiving with new students at the [CEHD Winter Involvement Fair](https://x.com/MizzouEducation/status/1616523070482829312). 
+
 Fall 2022:
 
 - December 15, 2022:
