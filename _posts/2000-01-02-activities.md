@@ -49,7 +49,7 @@ Spring 2023:
   * MLIS student and PBPF Fellow Kaitlin Howard co-presented a poster with cohort members at the 2023 Midwest Archives Conference ([MAC](https://sched.co/1GVbF)) in Chicago, IL.
 
 - March 27, 2023:
-  * SAAMUSC hosted a Speakeasy with ALA President-Elect Emily Drabinski.
+  * SAAMUSC and MAC4EAP hosted a [Speakeasy](/img/Drabinski23-Speakeasy.png) with ALA President-Elect Emily Drabinski.
 
 - January 19, 2023:
   * SAAMUSC talked archiving with new students at the [CEHD Winter Involvement Fair](https://x.com/MizzouEducation/status/1616523070482829312). 
