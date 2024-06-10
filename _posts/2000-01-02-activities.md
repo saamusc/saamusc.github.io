@@ -37,7 +37,7 @@ Spring 2023:
   * Dr. Alexandria Gough, Archivist at the Choctaw Cultural Center, joined us for a Speakeasy about Native American archives, [intangible cultural heritage](https://ich-archivessymposium.wordpress.com/), and the upcoming SAA and ATALM conferences.
 
 - May 15, 2023:
-  * We hosted a Speakeasy on "Demystifying Job Seeking" "with Lindy Smith, Head of LaBudde Special Collections at UMKC.
+  * We hosted a Speakeasy on "Demystifying Job Seeking" with Lindy Smith, Head of LaBudde Special Collections at UMKC.
 
 - April 27, 2023:
   * Announcement of the [Dr. Samir Husni Magazine Collection](https://library.missouri.edu/news/special-collections/samir-husni-magazine-collection-donated-to-mu-libraries) at MU Libraries' Special Collections and Archives. Check out the division's new [tutorials](https://library.missouri.edu/news/special-collections/now-online-tutorials-on-finding-materials-in-special-collections) and [lesson plans](https://library.missouri.edu/news/special-collections/special-collections-lesson-plans-now-available-online)!
