@@ -43,7 +43,7 @@ Spring 2023:
   * Announcement of the [Dr. Samir Husni Magazine Collection](https://library.missouri.edu/news/special-collections/samir-husni-magazine-collection-donated-to-mu-libraries) at MU Libraries' Special Collections and Archives. Check out the division's new [tutorials](https://library.missouri.edu/news/special-collections/now-online-tutorials-on-finding-materials-in-special-collections) and [lesson plans](https://library.missouri.edu/news/special-collections/special-collections-lesson-plans-now-available-online)!
 
 - April 14, 2023:
-  * SAAMUSC welcomed Kelsi Evans, Director of the Dr. John P. De Cecco Archives and Special Collections of the GLBT Historical Society in San Francisco for a Speakeasy about collecting practices.
+  * SAAMUSC welcomed Kelsi Evans, Director of the Dr. John P. De Cecco Archives and Special Collections of the GLBT Historical Society, in San Francisco for a Speakeasy about collecting practices.
 
 - April 14, 2023:
   * MLIS student and PBPF Fellow Kaitlin Howard co-presented a poster with cohort members at the 2023 Midwest Archives Conference ([MAC](https://sched.co/1GVbF)) in Chicago, IL.
