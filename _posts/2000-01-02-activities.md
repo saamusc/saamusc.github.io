@@ -11,6 +11,43 @@ fa-icon: check-square-o
 
 We organize activities and events related to archives on Mizzou's campus and in Missouri. Our officers coordinate event planning in collaboration with [SISLT](http://sislt.missouri.edu/student-groups/) student organizations *[LISGSA](https://orgsync.com/47098/chapter)*, the *[ASIS&T Student Chapter](https://orgsync.com/46996/chapter)*, and the *[Learning Technologies GSA](https://orgsync.com/79281/chapter)*, among [others](https://orgsync.com/47259/chapter) at MU (OrgSync links were through spring 2020). **Below** are some descriptive summaries! More details are in our Annual Reports below. 
 
+Fall 2024:
+
+- November 8, 2024:
+  * SAAMUSC hosted a tour of the Missouri Historic Costume and Textile Collection (MHCTC), led by Curator, Nicole Johnston. The MHCTC recently celebrated its "[Day of Ginger](https://mhctc.missouri.edu/exhibitions/day-of-ginger/)" in [April](https://coas.missouri.edu/news/day-ginger-celebrates-hollywood-legend-and-student-research) and "[Arts After Hours](https://president.missouri.edu/blog/arts-after-hours-displays-as-creativity-and-community/)" in September.
+ 
+- November 2, 2024:
+  * Happy sesquicentennial to the [Enns Entomological Museum](https://showme.missouri.edu/2024/mizzous-insect-museum-to-host-open-house-for-150th-anniversary/)!
+ 
+- October 18, 2024:
+  * SAAMUSC's own Noah Larson presented at the Missouri Association for Museums & Archives ([MAMA](https://mama.wildapricot.org/Events/Conference/Archive)) 2024 virtual conference.
+ 
+- September 17, 2024:
+  * We welcomed Benn Joseph, Head of Collections Services at Northwestern Libraries and fellow [MAC 2024](https://www.midwestarchives.org/2024-mac-annual-meeting) attendee, for a Speakeasy about their recently released [WGN Radio Archive](https://findingaids.library.northwestern.edu/repositories/7/resources/2082) and ongoing audiovisual digitization, the [Michael McDowell Death Collection](https://findingaids.library.northwestern.edu/repositories/7/resources/552), the [Charlotte Moorman Archive](https://findingaids.library.northwestern.edu/repositories/7/archival_objects/781922) of costumes, the [Joyce Hughes Papers](https://findingaids.library.northwestern.edu/repositories/6/resources/2047), and conservation [enclosures](https://findingaids.library.northwestern.edu/repositories/6/resources/78).
+ 
+- September 5, 2024:
+  * SAAMUSC welcomed new students to the academic year at the [CEHD Involvement Fair](https://www.facebook.com/mizzoueducation/posts/pfbid0R49Q7FaTzZkAbdrnRLNp6Y9kwUHc1QFM23Y4eZkV7qYnfALCRwmnbMoesnXeBdRal).
+ 
+- September 4, 2024:
+  * We attended the Budds Center for American Music Studies [Open House](https://www.facebook.com/buddscenter/posts/pfbid0JqZYotX48Y5QHnCxDa9AwzKefkcHrKHLnxodNK3cHaDuP3njfjsNHV1ibmBsj4Aal).
+ 
+Spring 2024:
+
+- July 22, 2024:
+  * We hosted a Speakeasy with Abbie Grotke, Head of the Web Archiving Section at the Library of Congress, and James Jacobs, US Government Information Librarian at Stanford University Libraries, on the End of Term ([EOT](https://eotarchive.org/)) Web Archive.
+
+- May 18, 2024: 
+  * SAAMUSC hosted a tour of the newly reopened [Museum of Art & Archaeology](https://showme.missouri.edu/2024/art-and-artifacts-return/), led by Curator, Dr. Benton Kidd.
+
+- May 2, 2024:
+  * We welcomed back #MizzouMade Jeff Corrigan, Science Librarian and Outreach Coordinator at California State University Monterey Bay, to speak about finding jobs post-MLIS.
+ 
+- April 27, 2024:
+  * SAAMUSC helped honor our late alumna and the 1992-1993 SAA President Anne Kenney, a [Jefferson Club](https://president.missouri.edu/blog/honoring-our-incredible-supporters-and-alumni/) Golden Quill Alumni Excellence Awardee.
+ 
+- January 25, 2024:
+  * SAAMUSC talked archiving with new students at the [CEHD Winter Involvement Fair](https://www.instagram.com/p/C2sPC15MdSt/?img_index=8).
+
 Fall 2023:
 
 - November 20, 2023:
