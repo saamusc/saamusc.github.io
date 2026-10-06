@@ -11,6 +11,31 @@ fa-icon: check-square-o
 
 We organize activities and events related to archives on Mizzou's campus and in Missouri. Our officers coordinate event planning in collaboration with [SISLT](http://sislt.missouri.edu/student-groups/) student organizations *[LISGSA](https://orgsync.com/47098/chapter)*, the *[ASIS&T Student Chapter](https://orgsync.com/46996/chapter)*, and the *[Learning Technologies GSA](https://orgsync.com/79281/chapter)*, among [others](https://orgsync.com/47259/chapter) at MU (OrgSync links were through spring 2020). **Below** are some descriptive summaries! More details are in our Annual Reports below. 
 
+Fall 2025:
+
+- November 20, 2025:
+  * For our fourth Speakeasy of 2025, fashion archives intern and SAAMUSC’s own Dahlia Bray showed-and-told some colorful costumes and accessories.
+
+- September 19, 2025:
+  * Welcome to the newly-elected LISGSA officers!
+
+- September 10, 2025:
+  * SAAMUSC's own Amanda May presented about pet therapy in libraries at the [2025 Amigos Online Conference](https://www.amigos.org/services/online-conference/libraries-cultivating-community/all-sessions). 
+
+- September 2, 2025:
+  * We welcomed back past president Isaac Alexander for a Speakeasy about the National Council for Preservation Education and interning at Yellowstone National Park.
+
+Spring 2025:
+
+- April 21, 2025:
+  * We hosted a Speakeasy with Amelia Verkerk, Virginia Tech University Archivist, about [archival labors](https://snaproundtable.wordpress.com/2024/05/28/long-term-effects-of-short-term-positions-by-amelia-verkerk/).
+
+- April 14, 2025:
+  * We have a mascot! Saammy the Aardvark Archivist
+
+- March 11, 2025:
+  * SAAMUSC welcomed author and MU English faculty member [A. Kendra Greene](https://thekendragreene.com/) for a Speakeasy about Icelandic museum and archive collections and her new book launching at [Skylark Bookshop](https://www.skylarkbookshop.com/new-events/2025/3/18/gabriel-fried-and-a-kendra-greene-tuesday-march-18-630-pm) next week.
+
 Fall 2024:
 
 - November 8, 2024:
