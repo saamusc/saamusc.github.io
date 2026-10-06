@@ -28,7 +28,7 @@ Fall 2025:
 Spring 2025:
 
 - April 21, 2025:
-  * We hosted a Speakeasy with Amelia Verkerk, Virginia Tech University Archivist, about [archival labors](https://snaproundtable.wordpress.com/2024/07/23/2023-2024-annual-meeting-posters-faculty-staff-fs-papers-and-oral-histories-a-collaboration-between-virginia-techs-center-for-oral-history-and-university-archives-by-amelia-verkerk-an/).
+  * We hosted a Speakeasy with Amelia Verkerk, Virginia Tech University Archivist, about proactive outreach, [sharing research](https://snaproundtable.wordpress.com/2024/07/23/2023-2024-annual-meeting-posters-faculty-staff-fs-papers-and-oral-histories-a-collaboration-between-virginia-techs-center-for-oral-history-and-university-archives-by-amelia-verkerk-an/) and mentorship.
 
 - April 14, 2025:
   * We have a mascot! Saammy the Aardvark Archivist
